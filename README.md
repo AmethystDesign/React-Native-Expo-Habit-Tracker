@@ -49,3 +49,10 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 # React-Native-Expo-Habit-Tracker
+
+# Screenshot
+![HabitTracker01](https://github.com/user-attachments/assets/29e9ea3f-9b67-467d-8bb7-091c47cd35e5)
+![HabitTracker02](https://github.com/user-attachments/assets/02c151bd-9228-4bc9-bd87-ea95f63fb07b)
+![HabitTracker03](https://github.com/user-attachments/assets/1fc7f51b-7931-40a5-b6ab-003e596e1a53)
+![HabitTracker04](https://github.com/user-attachments/assets/bb451990-f3c5-4b20-898f-36939fcfd53a)
+![HabitTracker05](https://github.com/user-attachments/assets/f77f9718-dd4b-441c-b6e5-5e92fea4a067)

@@ -51,8 +51,8 @@ Join our community of developers creating universal apps.
 # React-Native-Expo-Habit-Tracker
 
 # Screenshot
-![HabitTracker01](https://github.com/user-attachments/assets/29e9ea3f-9b67-467d-8bb7-091c47cd35e5)
-![HabitTracker02](https://github.com/user-attachments/assets/02c151bd-9228-4bc9-bd87-ea95f63fb07b)
-![HabitTracker03](https://github.com/user-attachments/assets/1fc7f51b-7931-40a5-b6ab-003e596e1a53)
-![HabitTracker04](https://github.com/user-attachments/assets/bb451990-f3c5-4b20-898f-36939fcfd53a)
-![HabitTracker05](https://github.com/user-attachments/assets/f77f9718-dd4b-441c-b6e5-5e92fea4a067)
+![HabitTracker01 - Copy](https://github.com/user-attachments/assets/9b164f83-2d2a-484b-b40d-01bde463118d)
+![HabitTracker02 - Copy](https://github.com/user-attachments/assets/d9c3e742-2694-4189-8e51-8e27ccf9dfd7)
+![HabitTracker03 - Copy](https://github.com/user-attachments/assets/89cc1121-b024-44c7-bea2-6450e7a66f7c)
+![HabitTracker04 - Copy](https://github.com/user-attachments/assets/6d8cee96-98e0-4d3f-9c6e-887bc97e501f)
+![HabitTracker05 - Copy](https://github.com/user-attachments/assets/8d8a9de3-aaac-4ab0-86e2-c9fbf41e1072)
